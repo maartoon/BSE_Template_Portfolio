@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Martin Xu | Saratoga High School | Software Engineering | Incoming Junior
+| Martin X | Saratoga High School | Software Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
