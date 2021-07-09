@@ -24,6 +24,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
 # Initial Design
-Below is my inital design and drawing of the Smart Mirror. Although I'm not sure if I will be able to implement all of these features within three weeks, I will be sure to add onto my progress here at BlueStamp Engineering. 
+Below is my inital design and drawing of the Smart Mirror. 
 ![Prototype Image](https://cdn.discordapp.com/attachments/861591749126389780/862783580627664957/smart_mirror_design.png)
 
