@@ -20,7 +20,7 @@ My second milestone was completing the code for the date, time, and weather for 
 
 My first milestone was setting up the Raspberry Pi and all the necessary software on my computer. First, I followed a guide to set up a Raspberry Pi on the internet and plugged everything into the right place. In order to set up the Raspberry Pi, I had to plug the Micro SD card into my computer and use the Raspberry Pi Imager software and write everything necessary into the SD card. Following this step, I could then plug the SD card into the Raspberry Pi and continue with the set up through the monitor that's connected to the Raspberry Pi. I had to install the Secure Shell Protocol (SSH) on both my computer and the Raspberry Pi then download a Virtual Network Computing (VNC) software in order to set up my Raspberry Pi with the Smart Mirror software.  
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kcl4jR92OxY&ab_channel=BlueStampEng "First Milestone"){:target="_blank" rel="noopener"}
 
 # Initial Design
 Below is my inital design and drawing of the Smart Mirror. Although I'm not sure if I can implement all of these features within the three week period at BlueStamp Engineering, I will be sure to build on my progress and improve my mirror in the future. 
