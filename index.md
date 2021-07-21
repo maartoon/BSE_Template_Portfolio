@@ -9,7 +9,7 @@ The smart mirror is a mirror that has the ability to display useful information,
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone was finishing the final touches for the features I had implemented and to attach the monitor to the two-sided mirror. After writing the code for all the features I wanted, I started using flexbox, a CSS Flexible Box Layout tool to help me design the layout of the smart mirror. I also downloaded some free fonts on the internet and customized my display that way. After I finished with all of that, I hot glued the monitor to the back of the mirror.
+My final milestone was finishing the final touches for the features I had implemented and to attach the monitor to the two-sided mirror. After finishing the code for all the features I wanted, I started using flexbox, a CSS Flexible Box Layout tool to help me design the layout of the smart mirror. I also downloaded some free fonts on the internet and customized my display that way. After I finished with all of that, I hot glued the monitor to the back of the mirror.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626900545/video_to_markdown/images/youtube--ZjXvFrcpAQ8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ZjXvFrcpAQ8&ab_channel=BlueStampEng "Martin X Final Milestone")
 # Second Milestone
