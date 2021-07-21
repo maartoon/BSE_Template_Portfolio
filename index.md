@@ -2,7 +2,7 @@
 The smart mirror is a mirror that has the ability to display useful information, such as time, date, weather, news, and much more. With the help of a two-sided mirror, a monitor, and the power of coding, I was able to build a smart mirror that displays all the information listed above in just under three weeks. 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Martin X | Saratoga High School | Software Engineering | Incoming Junior
+| Martin X | Saratoga High School | Software Engineer | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
