@@ -1,6 +1,5 @@
 ﻿# Martin's Smart Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+The smart mirror is a mirror that has the ability to display useful information, such as time, date, weather, news, and much more. With the help of a two-sided mirror, a monitor, and the power of coding, I was able to build a smart mirror that displays all the information listed above in just under three weeks. 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Martin X | Saratoga High School | Software Engineering | Incoming Junior
@@ -8,7 +7,8 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone was finishing the final touches for the features I had implemented and to attach the monitor to the two-sided mirror. After writing the code for all the features I wanted, I started using flexbox, a CSS Flexible Box Layout tool to help me design the layout of the smart mirror. I also downloaded some free fonts on the internet and customized my display that way. After I finished with all of that, I hot glued the monitor to the back of the mirror. Since it's a two-sided mirror, I will be ableto see all the information on the monitor as long as there's enough light. 
+My final milestone was finishing the final touches for the features I had implemented and to attach the monitor to the two-sided mirror. After writing the code for all the features I wanted, I started using flexbox, a CSS Flexible Box Layout tool to help me design the layout of the smart mirror. I also downloaded some free fonts on the internet and customized my display that way. After I finished with all of that, I hot glued the monitor to the back of the mirror.
+
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626900545/video_to_markdown/images/youtube--ZjXvFrcpAQ8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ZjXvFrcpAQ8&ab_channel=BlueStampEng "Martin X Final Milestone")
 # Second Milestone
 My second milestone was completing the code for the date, time, and weather for my smart mirror display. First, I installed the Smart Mirror repository from GitHub so I could write my code from scratch using said repository. Then, I started coding the date and time for my smart mirror. Although I wasn't used to coding in Javascript, I looked at a pre-made clock class for reference and completed it successfully. Then, I moved onto the weather display feature which forced me to work with APIs for the first time. It was a challenge at first, trying to figure how to pull data from an API. But, after watching a few tutorials and seeking help from my instructor, I was able to complete it successfully as well. Lastly, I started the code for my Calendar but didn't finish yet. It is very similar to the code for the Weather class, so I will be able to finish easily. Below is some pictures and videos of my milestone:
@@ -25,11 +25,15 @@ This is my code that gets the weather data from the API and returns it onto the 
 
 <img width="288" alt="Screen Shot 2021-07-16 at 2 04 44 PM" src="https://user-images.githubusercontent.com/85377718/126008427-707c9327-dba5-42cc-8526-62e7394453c7.png">
 
-Lastly, here is my code that loops through the most recent 5 items on my To-Do List and prints it onto the smart mirror: 
+Here is my code that loops through the most recent 5 items on my To-Do List and prints it onto the smart mirror: 
 
 <img width="588" alt="Screen Shot 2021-07-16 at 2 05 57 PM" src="https://user-images.githubusercontent.com/85377718/126008524-eef02cbe-882c-4c71-a3f1-df8580b21c5d.png">
 
 <img width="351" alt="Screen Shot 2021-07-16 at 2 10 18 PM" src="https://user-images.githubusercontent.com/85377718/126008870-674621bd-b6a6-44ac-8213-f7f1664cb909.png">
+
+Finally, I added a daily news section that displays the most popular headlines of the day from the New York Times using their API: 
+
+<img width="630" alt="Screen Shot 2021-07-21 at 1 56 24 PM" src="https://user-images.githubusercontent.com/85377718/126559017-10ba04ee-b702-4d8c-842c-dd77e989ec37.png">
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626900483/video_to_markdown/images/youtube--pl8vXbDhG7I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pl8vXbDhG7I&ab_channel=BlueStampEng "Martin X Milestone 2")
 # First Milestone
