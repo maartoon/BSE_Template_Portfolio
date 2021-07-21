@@ -3,9 +3,7 @@ The smart mirror is a mirror that has the ability to display useful information,
 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
-
 |:--:|:--:|:--:|:--:|
-
 | Martin X | Saratoga High School | Software Engineer | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
