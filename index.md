@@ -6,7 +6,7 @@ The smart mirror is a mirror that has the ability to display useful information,
 |:--:|:--:|:--:|:--:|
 | Martin X | Saratoga High School | Software Engineer | Incoming Junior
 
-![Headstone Image](https://cdn.discordapp.com/attachments/510222128155721729/868213922665209856/image0.jpg)
+![Headstone Image](https://cdn.discordapp.com/attachments/510222128155721729/868218484813865080/cachedImage.jpg)
   
 # Final Milestone
 My final milestone was finishing the final touches for the features I had implemented and to attach the monitor to the two-sided mirror. After finishing the code for all the features I wanted, I started using flexbox, a CSS Flexible Box Layout tool to help me design the layout of the smart mirror. I also downloaded some free fonts on the internet and customized my display that way. After I finished with all of that, I hot glued the monitor to the back of the mirror.
