@@ -18,7 +18,7 @@ During Demo Night, I presented my progress on the Smart Mirror project to an aud
 # Final Milestone
 My final milestone was finishing the final touches for the features I had implemented and to attach the monitor to the two-sided mirror. After finishing the code for all the features I wanted, I started using flexbox, a CSS Flexible Box Layout tool to help me design the layout of the smart mirror. I also downloaded some free fonts on the internet and customized my display that way. After I finished with all of that, I hot glued the monitor to the back of the mirror.
 
-Here are some of my code for FlexBox to design the spaces between each of the four text sections:
+Here are some of my code for FlexBox to design the spaces between each of the four text sections. The display: "flex" line initalizes FlexBox and tells the system taht we are using FlexBox. After initalizing FlexBox, using FlexBox's justifyContent: "space-between" just puts the two section of text on either side of the screen. I used this with both the weather and time and todo list and news so it'll display all four sections on four corners of the screen. The height just moves the news and todo list to the bottom of the screen, to add on to the four corner display. 
 
 <img width="344" alt="Screen Shot 2021-07-23 at 12 34 09 PM" src="https://user-images.githubusercontent.com/85377718/126832582-de911dc9-3bea-45a6-9323-f4337b0e368b.png">
 
