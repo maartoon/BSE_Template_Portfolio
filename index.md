@@ -8,6 +8,13 @@ The smart mirror is a mirror that has the ability to display useful information,
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/510222128155721729/868218484813865080/cachedImage.jpg)
   
+  
+# Demo Night Video
+During Demo Night, I presented my progress on the Smart Mirror project to an audience of around 25 people and explained the thought process behind each of the features
+
+[![Martin's Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627070160/video_to_markdown/images/youtube--nN9-cky28rc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=nN9-cky28rc&ab_channel=BlueStampEng "Martin's Demo Night Video")
+
+
 # Final Milestone
 My final milestone was finishing the final touches for the features I had implemented and to attach the monitor to the two-sided mirror. After finishing the code for all the features I wanted, I started using flexbox, a CSS Flexible Box Layout tool to help me design the layout of the smart mirror. I also downloaded some free fonts on the internet and customized my display that way. After I finished with all of that, I hot glued the monitor to the back of the mirror.
 
