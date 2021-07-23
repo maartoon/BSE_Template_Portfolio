@@ -10,7 +10,7 @@ The smart mirror is a mirror that has the ability to display useful information,
   
   
 # Demo Night Video
-During Demo Night, I presented my progress on the Smart Mirror project to an audience of around 25 people and explained the thought process behind each of the features
+During Demo Night, I presented my progress on the Smart Mirror project to an audience of around 25 people and explained the thought process behind all of the features. The explanation included how the code functioned, how APIs grab information from the internet and displays it on your own project, and also future modifications I may make to the mirror.
 
 [![Martin's Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627070160/video_to_markdown/images/youtube--nN9-cky28rc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=nN9-cky28rc&ab_channel=BlueStampEng "Martin's Demo Night Video")
 
